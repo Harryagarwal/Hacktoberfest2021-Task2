@@ -1,8 +1,36 @@
+body{
+    background-color: brown;
+}
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+.i{
+    color: orange;
+    font-style: italic;
+}
+.n{
+    color: white;
+    font-style: italic;
+}
+.d{
+    color: darkgreen;
+    font-style: italic;
+}
+#name{
+    color: blue;
+    
+}
+.para{
+    font-size: large;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
